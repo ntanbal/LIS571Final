@@ -67,12 +67,12 @@
 }
 
 .content h1{
-    font-size: 60px;
+    font-size: 50px;
     margin-top: -25px;
 }
 
 .content p{
-    margin: 20px auto;
+    margin: 16px auto;
     font-weight: 100;
     line-height: 25px;
     padding-left: 75px;
@@ -145,4 +145,15 @@ button:hover{
     padding-left: 75px;
     padding-right: 75px;
     
+}
+
+.defining_ethics_content img {
+    position: absolute; 
+    left: 50%; 
+    transform: translateX(-50%);
+}
+
+.centered-table {
+    margin: 0 auto;
+    width: 30%; /* Adjust width as needed */
 }
